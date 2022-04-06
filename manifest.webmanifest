@@ -1,0 +1,14 @@
+{
+    "name": "N3N",
+    "short_name": "N3N",
+    "description": "NCRYPTO Opensource Privacy and Security Norms",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#666bff",
+    "display": "minimal-ui",
+    "icons": [{
+        "src": "icons/icon-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    }]
+}

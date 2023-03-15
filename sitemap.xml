@@ -20,11 +20,11 @@
     </url>
     <url>
         <loc>https://ncrypto.co/legal/code-of-conduct/</loc>
-        <lastmod>2020-02-16</lastmod>
+        <lastmod>2023-03-15</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/legal/cookies/</loc>
-        <lastmod>2021-10-15</lastmod>
+        <lastmod>2023-03-15</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/legal/copyright/</loc>
@@ -32,7 +32,7 @@
     </url>
     <url>
         <loc>https://ncrypto.co/legal/privacy/</loc>
-        <lastmod>2021-11-09</lastmod>
+        <lastmod>2023-03-15</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/legal/terms-of-service/</loc>
@@ -54,6 +54,10 @@
     </url>
     <url>
         <loc>https://ncrypto.co/press/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/press/celebrating/</loc>
+        <lastmod>2022-11-23</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/services/</loc>
@@ -96,6 +100,9 @@
     </url>
     <url>
         <loc>https://ncrypto.co/tags/data/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/iam/</loc>
     </url>
     <url>
         <loc>https://ncrypto.co/tags/incident/</loc>

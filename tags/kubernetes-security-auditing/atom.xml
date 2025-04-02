@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>NCRYPTO - Kubernetes security auditing</title>
+    <link rel="self" type="application/atom+xml" href="https://ncrypto.co/tags/kubernetes-security-auditing/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ncrypto.co"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-11-23T00:00:00+00:00</updated>
+    <id>https://ncrypto.co/tags/kubernetes-security-auditing/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Cloud Security Services: Now with Dedicated Kubernetes Protection &amp; MSP-Friendly Automation</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ncrypto.co/news/k8ssec/"/>
+        <id>https://ncrypto.co/news/k8ssec/</id>
+        
+        <summary type="html">&lt;p&gt;Learn about NCRYPTO&#x27;s comprehensive incident response and recovery services, designed to help businesses minimize damage and recover quickly from cybersecurity incidents.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

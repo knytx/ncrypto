@@ -7,6 +7,64 @@
     <updated>2022-11-23T00:00:00+00:00</updated>
     <id>https://ncrypto.co/news/atom.xml</id>
     <entry xml:lang="en">
+        <title>Free Compliance Gap Analysis: Identify Risks Before Your Next Audit</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ncrypto.co/news/cga/"/>
+        <id>https://ncrypto.co/news/cga/</id>
+        
+        <summary type="html">&lt;p&gt;Identify compliance gaps before your audit. Get a free 30-page security assessment report in 48 hours. No obligation.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kubernetes Security Checklist: 15 Critical Controls by NCRYPTO</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ncrypto.co/news/k8schecklist/"/>
+        <id>https://ncrypto.co/news/k8schecklist/</id>
+        
+        <summary type="html">&lt;!-- ### *Protect Your Clusters from Misconfigurations, Attacks &amp; Data Breaches*   --&gt;
+&lt;p&gt;Kubernetes adoption is growing—but so are attacks targeting containerized environments. &lt;strong&gt;65% of K8s deployments have critical security gaps&lt;&#x2F;strong&gt; (Red Hat, 2023). NCRYPTO’s security team has compiled this actionable checklist based on real-world breaches we’ve investigated.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Cloud Security Services: Now with Dedicated Kubernetes Protection &amp; MSP-Friendly Automation</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ncrypto.co/news/k8ssec/"/>
+        <id>https://ncrypto.co/news/k8ssec/</id>
+        
+        <summary type="html">&lt;p&gt;Learn about NCRYPTO&#x27;s comprehensive incident response and recovery services, designed to help businesses minimize damage and recover quickly from cybersecurity incidents.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Responding to Threats: NCRYPTO&#x27;s Incident Response and Recovery Services</title>
         <published>2022-11-23T00:00:00+00:00</published>
         <updated>2022-11-23T00:00:00+00:00</updated>
@@ -22,8 +80,7 @@
         <link rel="alternate" type="text/html" href="https://ncrypto.co/news/nirrs-explained/"/>
         <id>https://ncrypto.co/news/nirrs-explained/</id>
         
-        <summary type="html">&lt;p&gt;Learn about NCRYPTO&#x27;s comprehensive incident response and recovery services, designed to help businesses minimize damage and recover quickly from cybersecurity incidents.&lt;&#x2F;p&gt;
-</summary>
+        <summary type="html">&lt;p&gt;Learn about NCRYPTO&#x27;s comprehensive incident response and recovery services, designed to help businesses minimize damage and recover quickly from cybersecurity incidents.&lt;&#x2F;p&gt;</summary>
         
     </entry>
 </feed>

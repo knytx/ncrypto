@@ -46,6 +46,18 @@
         <loc>https://ncrypto.co/news/</loc>
     </url>
     <url>
+        <loc>https://ncrypto.co/news/cga/</loc>
+        <lastmod>2022-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/news/k8schecklist/</loc>
+        <lastmod>2022-11-23</lastmod>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/news/k8ssec/</loc>
+        <lastmod>2022-11-23</lastmod>
+    </url>
+    <url>
         <loc>https://ncrypto.co/news/nirrs-explained/</loc>
         <lastmod>2022-11-23</lastmod>
     </url>
@@ -63,28 +75,28 @@
         <loc>https://ncrypto.co/services/</loc>
     </url>
     <url>
-        <loc>https://ncrypto.co/services/audit/</loc>
+        <loc>https://ncrypto.co/services/cloudsec/</loc>
+        <lastmod>2024-05-16</lastmod>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/services/compliance/</loc>
         <lastmod>2021-09-08</lastmod>
     </url>
     <url>
-        <loc>https://ncrypto.co/services/consult/</loc>
-        <lastmod>2021-09-08</lastmod>
-    </url>
-    <url>
-        <loc>https://ncrypto.co/services/pentest/</loc>
-        <lastmod>2021-09-08</lastmod>
-    </url>
-    <url>
-        <loc>https://ncrypto.co/services/respond/</loc>
-        <lastmod>2021-09-08</lastmod>
-    </url>
-    <url>
-        <loc>https://ncrypto.co/services/risk-am/</loc>
-        <lastmod>2021-09-08</lastmod>
+        <loc>https://ncrypto.co/services/iot-ai/</loc>
+        <lastmod>2025-02-08</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/services/train/</loc>
-        <lastmod>2021-09-08</lastmod>
+        <lastmod>2024-05-13</lastmod>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/services/vms/</loc>
+        <lastmod>2024-04-15</lastmod>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/services/xdr/</loc>
+        <lastmod>2025-02-08</lastmod>
     </url>
     <url>
         <loc>https://ncrypto.co/tags/</loc>
@@ -96,16 +108,49 @@
         <loc>https://ncrypto.co/tags/breach/</loc>
     </url>
     <url>
+        <loc>https://ncrypto.co/tags/cis-k8s-benchmark-checklist/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/container-runtime-protection/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/container-vulnerability-management/</loc>
+    </url>
+    <url>
         <loc>https://ncrypto.co/tags/cyber/</loc>
     </url>
     <url>
         <loc>https://ncrypto.co/tags/data/</loc>
     </url>
     <url>
+        <loc>https://ncrypto.co/tags/eks-aks-gke-hardening/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/free-compliance-checklist/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/hipaa-gap-analysis/</loc>
+    </url>
+    <url>
         <loc>https://ncrypto.co/tags/iam/</loc>
     </url>
     <url>
         <loc>https://ncrypto.co/tags/incident/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/kubernetes-security-auditing/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/kubernetes-security-best-practices/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/msp-cloud-security-services/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/multi-tenant-cspm/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/pre-audit-security-assessment/</loc>
     </url>
     <url>
         <loc>https://ncrypto.co/tags/ransomware/</loc>
@@ -121,5 +166,8 @@
     </url>
     <url>
         <loc>https://ncrypto.co/tags/services/</loc>
+    </url>
+    <url>
+        <loc>https://ncrypto.co/tags/soc-2-readiness-review/</loc>
     </url>
 </urlset>

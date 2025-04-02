@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>NCRYPTO - Kubernetes security best practices</title>
+    <link rel="self" type="application/atom+xml" href="https://ncrypto.co/tags/kubernetes-security-best-practices/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://ncrypto.co"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-11-23T00:00:00+00:00</updated>
+    <id>https://ncrypto.co/tags/kubernetes-security-best-practices/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Kubernetes Security Checklist: 15 Critical Controls by NCRYPTO</title>
+        <published>2022-11-23T00:00:00+00:00</published>
+        <updated>2022-11-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ncrypto.co/news/k8schecklist/"/>
+        <id>https://ncrypto.co/news/k8schecklist/</id>
+        
+        <summary type="html">&lt;!-- ### *Protect Your Clusters from Misconfigurations, Attacks &amp; Data Breaches*   --&gt;
+&lt;p&gt;Kubernetes adoption is growing—but so are attacks targeting containerized environments. &lt;strong&gt;65% of K8s deployments have critical security gaps&lt;&#x2F;strong&gt; (Red Hat, 2023). NCRYPTO’s security team has compiled this actionable checklist based on real-world breaches we’ve investigated.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
